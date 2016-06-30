@@ -5,6 +5,7 @@ namespace AbacaphiliacTest\ZendPhpDotEnv;
 use Abacaphiliac\ZendPhpDotEnv\DotEnvLoader;
 use Abacaphiliac\ZendPhpDotEnv\Module;
 use Zend\EventManager\SharedEventManager;
+use Zend\ModuleManager\ModuleEvent;
 use Zend\Mvc\Service\EventManagerFactory;
 use Zend\Mvc\Service\ModuleManagerFactory;
 use Zend\ServiceManager\ServiceManager;
